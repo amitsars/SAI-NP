@@ -1,0 +1,10 @@
+{
+  "test_data_loc" : "./testdata/sample data for athlete Automation.xlsx",
+  "Athletes_val_msg" : {
+    "first_name" : "Please fill first name",
+    "mother_name" : "Please enter mother's name",
+    "personal_information": {
+
+    }
+  }
+}
